@@ -1,1 +1,1 @@
-let myName = 'Christian Anderson';
+let myName = 'Chris Anderson';
